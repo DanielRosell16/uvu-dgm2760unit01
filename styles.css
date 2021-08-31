@@ -1,0 +1,40 @@
+/* header stuff starts here */
+header {
+    max-width: 960px;
+    margin: 0 auto;
+    background-image: url("../images/herofireplace.jpeg");
+    height: 444px;
+}
+
+header h1 {
+    color: #fff;
+    padding: 10px;
+}
+
+header h2 {
+    color: #fff;
+    padding: 10px;
+}
+
+/* main CSS starts here */
+main h1 {
+    color: #c45f3a;
+}
+
+main h2 {
+    color: #b5927e;
+}
+
+#greeting {
+    color: #f19740;
+}
+
+
+/* footer stuff here */
+
+footer {
+    text-align: center;
+    background-color: tan;
+    padding: 4px;
+    font-size: 16px;
+}
